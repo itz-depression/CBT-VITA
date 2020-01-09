@@ -14,7 +14,7 @@ int _sceDisplaySetFrameBufInternalForDriver(int fb_id1, int fb_id2, const SceDis
 		memcpy(&kfb, pParam, sizeof(SceDisplayFrameBuf));
 		blit_set_frame_buf(&kfb);
 		blit_set_color(0x00000000, 0x00ffffff);
-		blit_string(0, 0, "Unregistered HyperCam 2");
+		blit_string(0, 0, "Cock and ball torture (CBT), penis torture or dick torture is a sexual activity involving application of pain or constriction to the penis or testicles. This may involve directly painful activities, such as genital piercing, wax play, genital spanking, squeezing, ball-busting, genital flogging, urethral play, tickle torture, erotic electrostimulation, kneeing or kicking.[1] The recipient of such activities may receive direct physical pleasure via masochism, or emotional pleasure through erotic humiliation, or knowledge that the play is pleasing to a sadistic dominant. Many of these practices carry significant health risks.[2]");
 	}
 	return TAI_CONTINUE(int, ref_hook0, fb_id1, fb_id2, pParam, sync);
 }
